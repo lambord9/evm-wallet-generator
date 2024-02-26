@@ -1,0 +1,8 @@
+*.venv
+*.csv
+old_updates/
+__pycache__/
+logs/
+01_Fortigate_API_backup.py
+*.txt
+*.pkg
